@@ -1,14 +1,15 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Calorie Crusher is an app for Android that takes in several different exercises and computes the amount of calories burned by each one with a given quantity.
+Additionaly it converts the amount of calories burned between all of the exercises listed.
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Jacobo Sternberg ([j.sternberg@berkeley.edu](mailto:j.sternberg@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See Calorie Crusher (https://youtu.be/5pborELrBIo)
 
 ## Screenshots
 
@@ -16,7 +17,4 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
+Thanks to all the helpful stack overflow people, and some youtube tutorials.
