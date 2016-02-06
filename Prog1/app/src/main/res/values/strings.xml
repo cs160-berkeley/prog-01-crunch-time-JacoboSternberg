@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calorie Crusher</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt">What exercise did you do?</string>
+    <string name="minutes">Enter how many minutes</string>
+    <string name="reps">Enter the number of reps</string>
+    <string-array name="exercise_array">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+    </string-array>
+</resources>
